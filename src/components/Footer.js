@@ -28,39 +28,39 @@
         <div class='footer-links'>
           <div className='footer-link-wrapper'>
             <div class='footer-link-items'>
-              <h2>About Us</h2>
-              <Link to='/sign-up'>How it works</Link>
-              <Link to='/'>Testimonials</Link>
-              <Link to='/'>Careers</Link>
-              <Link to='/'>Investors</Link>
-              <Link to='/'>Terms of Service</Link>
+              <h2 className='txt-items'>About Us</h2>
+              <Link className='link-name' to='/sign-up'>How it works</Link>
+              <Link className='link-name' to='/'>Testimonials</Link>
+              <Link className='link-name' to='/'>Careers</Link>
+              <Link className='link-name' to='/'>Investors</Link>
+              <Link className='link-name' to='/'>Terms of Service</Link>
             </div>
             <div class='footer-link-items'>
-              <h2>Contact Us</h2>
-              <Link to='/'>Contact</Link>
-              <Link to='/'>Support</Link>
-              <Link to='/'>Destinations</Link>
-              <Link to='/'>Sponsorships</Link>
+              <h2 className='txt-items'>Contact Us</h2>
+              <Link className='link-name' to='/'>Contact</Link>
+              <Link className='link-name' to='/'>Support</Link>
+              <Link className='link-name' to='/'>Destinations</Link>
+              <Link className='link-name' to='/'>Sponsorships</Link>
             </div>
           </div>
           <div className='footer-link-wrapper'>
             <div class='footer-link-items'>
-              <h2>Videos</h2>
-              <Link to='/'>Submit Video</Link>
-              <Link to='/'>Ambassadors</Link>
-              <Link to='/'>Agency</Link>
-              <Link to='/'>Influencer</Link>
+              <h2 className='txt-items' >Videos</h2>
+              <Link className='link-name' to='/'>Submit Video</Link>
+              <Link className='link-name' to='/'>Ambassadors</Link>
+              <Link className='link-name' to='/'>Agency</Link>
+              <Link className='link-name' to='/'>Influencer</Link>
             </div>
             <div class='footer-link-items'>
-              <h2>Social Media</h2>
-              <Link to='/'>Instagram</Link>
-              <Link to='/'>Facebook</Link>
-              <Link to='/'>Youtube</Link>
-              <Link to='/'>Twitter</Link>
+              <h2 className='txt-items'>Social Media</h2>
+              <Link className='link-name' to='/'>Instagram</Link>
+              <Link className='link-name' to='/'>Facebook</Link>
+              <Link className='link-name' to='/'>Youtube</Link>
+              <Link className='link-name' to='/'>Twitter</Link>
             </div>
             <div class='footer-link-items'>
-              <h2>Contact Company</h2>
-                    <p style={{color:'white'}}>Maquee Executive Offices At Cyber 2 Tower 18TH Floor Suite M06_CYB, Jl. H.R Rasuna Said, Blok X-5 , Jakarta 12950, Indonesia</p>
+              <h2 className='txt-items'>Contact Company</h2>
+                    <p style={{ color:'white'}}>Maquee Executive Offices At Cyber 2 Tower 18TH Floor Suite M06_CYB, Jl. H.R Rasuna Said, Blok X-5 , Jakarta 12950, Indonesia</p>
                     <p style={{color:'white'}}><strong>Phone: </strong> (62-21) 5799 8999</p>
                     <p style={{color:'white'}}><strong>Fax: </strong> (62-21) 5799 8988</p>
                     <p style={{color:'white'}}><strong>Email: </strong> pt.pas@permataazzurisehat.com</p>
